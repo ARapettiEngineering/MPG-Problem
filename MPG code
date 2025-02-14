@@ -12,7 +12,7 @@ int main()
 
     mpg = tmiles / tgallons;
 
-    cout << "The cars MPG is " << mpg << endl;
+    cout << "The car's MPG is " << mpg << endl;
 
     return 0;
 }
