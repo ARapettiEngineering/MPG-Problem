@@ -8,9 +8,7 @@ int main()
 
     int tmiles = 375;
 
-    int mpg = 0;
-
-    mpg = tmiles / tgallons;
+    int mpg = tmiles / tgallons;
 
     cout << "The car's MPG is " << mpg << endl;
 
