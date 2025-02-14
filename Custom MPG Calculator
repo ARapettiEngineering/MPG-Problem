@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int tgallons = 15;
+
+    int tmiles = 375;
+
+    int mpg = 0;
+
+    mpg = tmiles / tgallons;
+
+    cout << "The cars MPG is " << mpg << endl;
+
+    return 0;
+}
